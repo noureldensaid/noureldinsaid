@@ -4,7 +4,7 @@
 
 ## 🌐 Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/noureldensaid)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%230077B5.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/nourmorgan01)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?logo=LeetCode&logoColor=Orange)](https://leetcode.com/nourmorgan01)
 
 
 # 💻 Tech Stack:
