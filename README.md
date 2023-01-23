@@ -1,5 +1,4 @@
-#noureldinsaid
-💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on Application Development<br><br>👨‍💻 All of my projects are available at Repositories<br><br>📫 You can reach me at noureldinsaid.business@gmail.com<br><br>📄 Check My CV for more info<br><br>⚡ The Java developers used to drink Peet's coffee made from coffee beans from Java
 
 
@@ -14,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=noureldensaid&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=noureldensaid&icon=0&color=0)](https://visitcount.itsvg.in)
