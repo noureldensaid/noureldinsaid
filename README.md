@@ -2,8 +2,10 @@
 🔭 I’m currently a junior Android Developer<br><br>👨‍💻 All of my projects are available at Repositories<br><br>📫 You can reach me at noureldensaid.bus@gmail.com<br><br>📄 Check My CV for more info<br><br>⚡ The Java developers used to drink Peet's coffee made from coffee beans from Java
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/noureldensaid) 
+## 🌐 Connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/noureldensaid)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%230077B5.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/nourmorgan01)
+
 
 # 💻 Tech Stack:
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Android](https://img.shields.io/badge/Android-%2302569B.svg?style=for-the-badge&logo=Android&logoColor=white)
