@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently a junior Android Developer<br><br>👨‍💻 All of my projects are available at Repositories<br><br>📫 You can reach me at noureldensaid.bus@gmail.com<br><br>📄 Check My CV for more info<br><br>⚡ The Java developers used to drink Peet's coffee made from coffee beans from Java
+🔭 I’m currently a junior Android Developer<br><br>
+👨‍💻 All of my projects are available at Repositories<br><br>
+📫 You can reach me at noureldensaid.bus@gmail.com<br><br
+>📄 Check [My CV](https://drive.google.com/drive/folders/1tsSFratGTdioi2uW6QHP6okK03IjQ1-1) for more info<br><br>
+⚡ The Java developers used to drink Peet's coffee made from coffee beans from Java
 
 
 ## 🌐 Connect:
