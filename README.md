@@ -1,3 +1,5 @@
+<h1 align="center">Hi there , I'm Nour Elden Said <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h1>
+
 # 💫 About Me:
 🔭 I’m currently a junior Android Developer<br><br> <img align="right" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="480" />
 👨‍💻 All of my projects are available at [Repositories](https://github.com/noureldensaid?tab=repositories)<br><br>
