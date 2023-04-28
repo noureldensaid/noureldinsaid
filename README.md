@@ -6,7 +6,7 @@
 - 📫 You can reach me at noureldensaid.bus@gmail.com<br><br> 
 - 📄 Check [My CV](https://drive.google.com/file/d/1PMoYIpAQoNPlAZoXzcXBAg10n2EUFSgE/view) for more info<br> 
 
- <img  align="center" src= "https://user-images.githubusercontent.com/93207605/235039871-3b441576-6068-4c3a-b597-fe0c40083806.gif" width ="400px" ></img> <br><br> 
+ <img  align="right" src= "https://user-images.githubusercontent.com/93207605/235039871-3b441576-6068-4c3a-b597-fe0c40083806.gif" width ="400px" ></img> <br><br> 
 ## 🌐 Connect with me:
 
 <p align="left">
