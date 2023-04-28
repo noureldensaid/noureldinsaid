@@ -4,7 +4,7 @@
 -👨‍💻 All of my projects are available at [Repositories](https://github.com/noureldensaid?tab=repositories)  <br><br> 
 -📫 You can reach me at noureldensaid.bus@gmail.com<br><br> 
 -📄 Check [My CV](https://drive.google.com/file/d/1PMoYIpAQoNPlAZoXzcXBAg10n2EUFSgE/view) for more info<br>
-## 🌐 Connect with me:
+# 🌐 Connect with me:
 
 <p align="left">
   <a href="https://linkedin.com/in/noureldensaid" target="blank"><img align="center"
