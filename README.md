@@ -5,7 +5,7 @@
 
 
 ## 🌐 Connect:
-[![LinkedIn](src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg")](https://linkedin.com/in/noureldensaid)
+[![LinkedIn]("https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg")](https://linkedin.com/in/noureldensaid)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?logo=LeetCode&logoColor=Orange)](https://leetcode.com/nourmorgan01)
 
 
