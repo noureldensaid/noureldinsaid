@@ -10,9 +10,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/noureldensaid" target="blank"><img align="center"
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-alt="linkedIn" height="30" width="35px" /></a>
+alt="linkedIn" height="25px" width="30px" /></a>
    <a href="https://leetcode.com/nourmorgan01/" target="_blank">
-    <img align="center" alt="leetcode | GitHub" width="35px" src="https://user-images.githubusercontent.com/93207605/235032353-6061a726-e619-4c1c-b311-f71571a059bd.png" />
+    <img align="center" alt="leetcode | GitHub" height="25px" width="30px" src="https://user-images.githubusercontent.com/93207605/235032353-6061a726-e619-4c1c-b311-f71571a059bd.png" />
   </a> &nbsp;&nbsp;
 </p>
 
