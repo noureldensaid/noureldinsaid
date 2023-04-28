@@ -18,7 +18,7 @@ alt="linkedIn" height="25px" width="30px" /></a>
 
 
 ## 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=android,flutter,kotlin,java,dart)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=android studio,flutter,kotlin,java,dart)](https://skillicons.dev)
 
 
 ---
