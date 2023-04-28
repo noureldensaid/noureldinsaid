@@ -6,10 +6,14 @@
 📫 You can reach me at noureldensaid.bus@gmail.com<br><br>📄 Check [My CV](https://drive.google.com/file/d/1PMoYIpAQoNPlAZoXzcXBAg10n2EUFSgE/view) for more info<br><br>
 
 ## 🌐 Connect with me:
+
 <p align="left">
   <a href="https://linkedin.com/in/noureldensaid" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Viral Bhadeshiya" height="30" width="40" /></a>
+   <a href="https://leetcode.com/nourmorgan01/" target="_blank">
+    <img align="center" alt="mm | GitHub" width="40px" src="https://user-images.githubusercontent.com/93207605/235032353-6061a726-e619-4c1c-b311-f71571a059bd.png" />
+  </a> &nbsp;&nbsp;
 </p>
 
 
