@@ -2,6 +2,7 @@
 🔭 I’m currently a junior Android Developer<br><br>
 👨‍💻 All of my projects are available at [Repositories](https://github.com/noureldensaid?tab=repositories)<br><br>
 📫 You can reach me at noureldensaid.bus@gmail.com<br><br>📄 Check [My CV](https://drive.google.com/file/d/1PMoYIpAQoNPlAZoXzcXBAg10n2EUFSgE/view) for more info<br><br>
+<img align="right" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="480" />
 
 ## 🌐 Connect with me:
 <p align="left">
