@@ -2,7 +2,7 @@
 <h3 align="center">Junior Android Developer 👨‍ </h3>
 
 
-<h3 
+<h3 align="left"
  -👨‍💻 All of my projects are available at [Repositories](https://github.com/noureldensaid?tab=repositories)  <img  align="right" src= "https://user-images.githubusercontent.com/93207605/235039871-3b441576-6068-4c3a-b597-fe0c40083806.gif" width ="400px" ></img>
 <br><br>
 -📫 You can reach me at noureldensaid.bus@gmail.com<br><br> 
