@@ -4,7 +4,7 @@
 🔭 I’m currently a junior Android Developer<br><br> 
 👨‍💻 All of my projects are available at [Repositories](https://github.com/noureldensaid?tab=repositories)<br><br>
 📫 You can reach me at noureldensaid.bus@gmail.com<br><br>📄 Check [My CV](https://drive.google.com/file/d/1PMoYIpAQoNPlAZoXzcXBAg10n2EUFSgE/view) for more info<br><br>
- <img src= "https://user-images.githubusercontent.com/93207605/235034890-0daeb62b-03ed-4b37-b814-60f46e36bd6a.gif"></img>
+ <img align="left" src= "https://user-images.githubusercontent.com/93207605/235034890-0daeb62b-03ed-4b37-b814-60f46e36bd6a.gif"></img>
 ## 🌐 Connect with me:
 
 <p align="left">
