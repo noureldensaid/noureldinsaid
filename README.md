@@ -1,7 +1,11 @@
 <h1 align="center">Hi there , I'm Nour Elden Said <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h1>
 <h3 align="center">Junior Android Developer 👨‍ </h3>
  
--👨‍💻 All of my projects are available at [Repositories](https://github.com/noureldensaid?tab=repositories)  <br><br> 
+-👨‍💻 All of my projects are available at [Repositories](https://github.com/noureldensaid?tab=repositories)  <br><br> <div align="right">
+  <img src= "https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif"></img>
+</div>
+
+
 -📫 You can reach me at noureldensaid.bus@gmail.com<br><br> 
 -📄 Check [My CV](https://drive.google.com/file/d/1PMoYIpAQoNPlAZoXzcXBAg10n2EUFSgE/view) for more info<br>
 ## 🌐 Connect with me:
