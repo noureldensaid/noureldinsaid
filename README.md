@@ -5,10 +5,10 @@
 
 ## About Me
 - 🔭 I’m currently working on Android Development.
-- 🌱 I’m currently learning Advanced topics in Android Development , Design patterns ,Architectures patterns
+- - 📫 You can reach me at noureldensaid.bus@gmail.com.
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about Android, Java, or Kotlin.
-- 📫 You can reach me at noureldensaid.bus@gmail.com.
+- 🌱 I’m currently learning Advanced topics in Android Development, Design patterns and Architectures patterns
  
 ## 📄 Check Out My [CV](https://drive.google.com/file/d/1PMoYIpAQoNPlAZoXzcXBAg10n2EUFSgE/view)
 
