@@ -3,7 +3,7 @@
 
 <p align="center"><img  src= "https://user-images.githubusercontent.com/93207605/235039871-3b441576-6068-4c3a-b597-fe0c40083806.gif" width ="350px" ></p>
 
-## About Me
+##👾 About Me
 - 🔭 I’m currently working on Android Development.
 - 📫 You can reach me at noureldensaid.bus@gmail.com.
 - 👯 I’m looking to collaborate on open source projects.
