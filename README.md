@@ -23,7 +23,7 @@ alt="linkedIn" height="25px" width="30px" /></a>
 
 
 
-<h4 align="left">Visitor's count :eyes:</h4>
+<h1 align="left">Visitor's count :eyes:</h1>
 
 <p align="left"><img src="https://profile-counter.glitch.me/{noureldensaid}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
