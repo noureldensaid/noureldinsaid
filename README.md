@@ -5,14 +5,11 @@
 
 ## About Me
 - 🔭 I’m currently working on Android Development.
-- 🌱 I’m currently learning Flutter and Data Science.
+- 🌱 I’m currently learningAdvanced topics in Android Development, Learning more about Design patterns and Architectures patterns
 - 👯 I’m looking to collaborate on open source projects.
-- 🤔 I’m looking for help with career opportunities.
 - 💬 Ask me about Android, Java, or Kotlin.
 - 📫 You can reach me at noureldensaid.bus@gmail.com.
-- 😄 Pronouns: he/him.
-- ⚡ Fun fact: I love to learn new technologies and play football.
-
+ 
 ## 📄 Check Out My [CV](https://drive.google.com/file/d/1PMoYIpAQoNPlAZoXzcXBAg10n2EUFSgE/view)
 
 ## 🌐 Connect with me:
