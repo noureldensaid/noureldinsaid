@@ -10,7 +10,7 @@
 - 💬 Ask me about Android, Java, or Kotlin.
 - 🌱 I’m currently learning Advanced topics in Android Development, Design patterns and Architectures patterns
  
-## 📄 Check Out My [CV](https://drive.google.com/file/d/1PMoYIpAQoNPlAZoXzcXBAg10n2EUFSgE/view)
+## 📄 Check Out My [CV](https://drive.google.com/file/d/1PMoYIpAQoNPlAZoXzcXBAg10n2EUFSgE/view?usp=share_link)
 
 ## 🌐 Connect with me:
 <p align="left">
