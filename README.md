@@ -23,5 +23,11 @@ alt="linkedIn" height="25px" width="30px" /></a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=noureldensaid&icon=0&color=0)](https://visitcount.itsvg.in)
+<br><br>
 
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="left"><img src="https://profile-counter.glitch.me/{taham8875}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+
+ 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
