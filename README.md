@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my Readme! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
+   <h1 align="center">Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
 <h2 align="center">I'm Nour Elden Said, a Junior Android Developer 👨‍💻</h2>
 
 <p align="center"><img  src= "https://user-images.githubusercontent.com/93207605/235039871-3b441576-6068-4c3a-b597-fe0c40083806.gif" width ="350px" ></p>
