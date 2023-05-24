@@ -27,11 +27,11 @@ alt="linkedIn" height="25px" width="30px" /></a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="58" width="58" alt="java logo" />
 <img src="https://github.com/noureldensaid/noureldensaid/assets/93207605/98209d18-57e3-4a62-9895-68993b5b6ba7" height="42" width="42" alt="kotlin logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="52" width="52" alt="android logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="52" width="52" alt="dart" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="52" width="52" alt="flutter" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="52" width="52" alt="gradle logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="52" width="52" alt="git logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="52" width="52" alt="firebase logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="52" width="52" alt="dart" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="52" width="52" alt="flutter" />
 <img src="https://github.com/noureldensaid/noureldensaid/assets/93207605/db83f659-23b4-4154-a211-0a6fd2b1316e" height="52" width="52" alt="postman logo" />
 </p>
 
