@@ -7,9 +7,7 @@
 - 🔭 I’m currently working on Android Development.
 - 📫 You can reach me at noureldensaid.bus@gmail.com.
 - 👯 I’m looking to collaborate on open source projects.
-- 💬 Ask me about Android, Java, or Kotlin.
-- 🌱 I’m currently learning Advanced topics in Android Development, Design patterns and Architectures patterns
- 
+  
 ## 📄 Check Out My [CV](https://drive.google.com/file/d/1D6LD_h91IaLSnZsmpZmwYNGndKRFJTCe/view?usp=share_link)
 
 ## 🌐 Connect with me:
