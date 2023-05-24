@@ -24,7 +24,7 @@ alt="linkedIn" height="25px" width="30px" /></a>
 
 ## 💻 Tech Stack:
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="60" width="60" alt="java logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="58" width="58" alt="java logo" />
 <img src="https://github.com/noureldensaid/noureldensaid/assets/93207605/98209d18-57e3-4a62-9895-68993b5b6ba7" height="42" width="42" alt="kotlin logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="52" width="52" alt="android logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="52" width="52" alt="gradle logo" />
