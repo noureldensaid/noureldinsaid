@@ -27,7 +27,7 @@ alt="linkedIn" height="25px" width="30px" /></a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="52" width="52" alt="java logo" />
   <img src="https://github.com/noureldensaid/noureldensaid/assets/93207605/67ec26ad-74c0-4dd8-abef-3e6c3be428a7" height="52" width="52" alt="kotlin logo" />
   <img src="https://github.com/noureldensaid/noureldensaid/assets/93207605/7bf80986-5ad9-42af-87e4-f66f4b28d9a4" height="52" width="52" alt="android logo" />
-  <img src="https://github.com/noureldensaid/noureldensaid/assets/93207605/e1ceaa91-53fb-48be-bc09-f52277363c5e" height="52" width="52" alt="android logo" />
+  <img src="https://github.com/noureldensaid/noureldensaid/assets/93207605/e1ceaa91-53fb-48be-bc09-f52277363c5e" height="72" width="72" alt="android logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="52" width="52" alt="gradle logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="52" width="52" alt="git logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="52" width="52" alt="firebase logo" />
