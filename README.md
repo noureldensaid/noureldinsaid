@@ -30,7 +30,7 @@ alt="linkedIn" height="25px" width="30px" /></a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="52" width="52" alt="gradle logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="52" width="52" alt="git logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="52" width="52" alt="firebase logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" height="52" width="52" alt="dart" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="52" width="52" alt="dart" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="52" width="52" alt="flutter" />
 <img src="https://github.com/noureldensaid/noureldensaid/assets/93207605/6f6647dc-cd9c-4c8d-9983-de589f28cac2" height="52" width="100" alt="postman logo" />
 </p>
