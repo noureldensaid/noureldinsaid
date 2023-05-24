@@ -32,10 +32,10 @@ alt="linkedIn" height="25px" width="30px" /></a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="52" width="52" alt="firebase logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="52" width="52" alt="dart" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="52" width="52" alt="flutter" />
-<img src="https://github.com/noureldensaid/noureldensaid/assets/93207605/68268e79-2e04-4ca4-a6a3-59c818bf1b07" height="52" width="100" alt="postman logo" />
+<img src="https://github.com/noureldensaid/noureldensaid/assets/93207605/db83f659-23b4-4154-a211-0a6fd2b1316e" height="52" width="52" alt="postman logo" />
 </p>
 
-
+ 
  
  
  
