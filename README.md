@@ -3,7 +3,7 @@
 
 <p align="center"><img  src= "https://user-images.githubusercontent.com/93207605/235039871-3b441576-6068-4c3a-b597-fe0c40083806.gif" width ="350px" ></p>
 
-<p align="left">
+## <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="67" width="67" alt="java logo" />
 <img src="https://github.com/noureldensaid/noureldensaid/assets/93207605/98209d18-57e3-4a62-9895-68993b5b6ba7" height="49" width="49" alt="kotlin logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="49" width="49" alt="android logo" />
