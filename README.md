@@ -8,7 +8,7 @@
 - 📫 You can reach me at noureldensaid.bus@gmail.com.
 - 👯 I’m looking to collaborate on open source projects.
   
-## 📄 Check Out My [CV](https://drive.google.com/file/d/1D6LD_h91IaLSnZsmpZmwYNGndKRFJTCe/view?usp=share_link)
+## 📄 Check Out My [CV](https://drive.google.com/file/d/1ZvZ0GKjY35IvnsO_L1c9UoEBP8uylslg/view?usp=drivesdk) 
 
 ## 🌐 Connect with me:
 <p align="left">
