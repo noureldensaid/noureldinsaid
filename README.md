@@ -2,16 +2,12 @@
 
 ## I'm Nour Elden Said, a Junior Android Developer 👨‍💻
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/93207605/235039871-3b441576-6068-4c3a-b597-fe0c40083806.gif" width="350px">
-</p>
-
 ## 👾 About Me
 - 🔭 I’m currently working on Android Development.
 - 📫 You can reach me at [noureldensaid.bus@gmail.com](mailto:noureldensaid.bus@gmail.com).
 - 👯 I’m looking to collaborate on open source projects.
   
-## 📄 Check Out My [CV](https://drive.google.com/file/d/1t6MYeJC4xPxKtGh9YoJdzLuzargcBYbJ/view?usp=drivesdk) 
+## 📄 Check Out My [CV](https://drive.google.com/file/d/1EQqiQi_i551GHO_xmOZZe1JqAL8tXvX-/view?usp=drivesdk) 
 
 ## 🌐 Connect with me:
 <p align="left">
