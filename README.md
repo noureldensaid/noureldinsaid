@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-## I'm Nour, a Junior Android Developer 👨‍💻
+## I'm Nour, an Android Developer 👨‍💻
 
 ## 👾 About Me
 - 🔭 I’m currently working on Android Development.
